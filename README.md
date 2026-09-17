@@ -36,7 +36,7 @@
 如果你在用 Claude Code，把下面这段**整段复制**发给它：
 
 ```
-帮我装这个 Skill：把 https://github.com/sunkimk/verify-design-implementation
+帮我装这个 Skill：把 https://github.com/zymix-ui/verify-design-implementation
 克隆到 ~/.claude/skills/verify-design-implementation（目录名保持不变），
 装完确认里面有 SKILL.md，然后告诉我启动命令。
 ```
@@ -44,7 +44,7 @@
 在用 Codex 的话，把路径换一下：
 
 ```
-帮我装这个 Skill：把 https://github.com/sunkimk/verify-design-implementation
+帮我装这个 Skill：把 https://github.com/zymix-ui/verify-design-implementation
 克隆到 ~/.codex/skills/verify-design-implementation（目录名保持不变），
 装完确认里面有 SKILL.md，然后告诉我启动命令。
 ```
@@ -56,13 +56,13 @@
 不想麻烦 AI，就在终端里贴这一行（Claude Code 用户）：
 
 ```bash
-git clone https://github.com/sunkimk/verify-design-implementation.git ~/.claude/skills/verify-design-implementation
+git clone https://github.com/zymix-ui/verify-design-implementation.git ~/.claude/skills/verify-design-implementation
 ```
 
 Codex 用户换成这行：
 
 ```bash
-git clone https://github.com/sunkimk/verify-design-implementation.git ~/.codex/skills/verify-design-implementation
+git clone https://github.com/zymix-ui/verify-design-implementation.git ~/.codex/skills/verify-design-implementation
 ```
 
 ### 完全不想碰命令行
